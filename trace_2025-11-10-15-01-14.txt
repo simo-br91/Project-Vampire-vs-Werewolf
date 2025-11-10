@@ -1,0 +1,22 @@
+11/10/2025 15:01:14	Démarrage de l'attente de 1 connexion(s).
+11/10/2025 15:07:23	Réception de NME en cours pour le joueur 0
+11/10/2025 15:07:23	Nom du joueur #0 est MY_AI
+11/10/2025 15:07:23	Envoi de la description de la carte au joueur 0
+11/10/2025 15:07:23	Envoi de la description de la carte au joueur 0 terminé
+11/10/2025 15:07:23	Connexion(s) effectuée(s).
+11/10/2025 15:07:23	Arrêt de l'écoute.
+11/10/2025 15:07:28	Démarrage du tour à tour
+11/10/2025 15:07:28	Démarrage du chrono
+11/10/2025 15:07:28	Coup n°1
+			-> Tour du joueur #0
+11/10/2025 15:07:28	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+11/10/2025 15:07:28	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 0 octets
+11/10/2025 15:19:46	Fin de la partie car les Vampires ont triché.
+An existing connection was forcibly closed by the remote host: 			Message:{1}
+11/10/2025 3:19:46 PM	Fin de la partie car le temps est terminé
+11/10/2025 15:19:50	Envoi de END et BYE et fermeture de la socket aux Vampires
+11/10/2025 15:19:50	Echec Envoi de END et BYE et fermeture de la socket aux Vampires
